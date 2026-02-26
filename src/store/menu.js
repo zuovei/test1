@@ -1,4 +1,4 @@
-const state = localStorage.getItem('vuex') ? localStorage.getItem('vuex').menu : {
+const state = localStorage.getItem('v3pz') ? localStorage.getItem('v3pz').menu : {
   isCollapse: false,
   selectMenu: [],
   routerList: [],
